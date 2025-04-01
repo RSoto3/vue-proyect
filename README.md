@@ -18,7 +18,7 @@
 2.  **Ejecutar el servidor:**
 
     ```bash
-    npm run serve
+    npm run dev
     ```
 
 ## Pruebas
